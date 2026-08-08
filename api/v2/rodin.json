@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1786194638,
+    "files": [
+      {
+        "filename": "lineage-23.2-20260808-UNOFFICIAL-Lufrz-rodin.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:5313:160258,payload.bin:5313:2378941930,payload_properties.txt:2378947301:156",
+        "sha256": "552132b157a30003a49ff15372ea8f3f4584c1416039cf2aa584b598e9c6aae5",
+        "size": 2378950678,
+        "url": "https://ts.buzzheavier.com/d/gp36lfice4vq?v=Ba7D3SoiNNVx-VoPa2mYpZPOhpcdDA0d7Ip_7IcoXx18pEjfqPFq4ALU7xvf8Po80dZkr5ZELslgdsor69Ywpxt0qeOjchDda9ovKUYF8qXRYPiVyuFQ6rqkDRXpo1xS9Z8D-1d2vm9WxkBT9QbH3W1liicLP9zJX7R9KsiKGxxHRo6xBipesC37ioeQi0GCIoMKIjc4FR_p4ELcqMoTvhOX2JOvIb66u_6XOT_tPu-lSIE/lineage-23.2-20260808-UNOFFICIAL-Lufrz-rodin.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2"
+  }
+]
