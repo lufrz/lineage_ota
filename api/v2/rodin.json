@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1786628880,
+    "datetime": 1786691689,
     "files": [
       {
-        "filename": "lineage-23.2-20260813-UNOFFICIAL-Lufrz-rodin.zip",
+        "filename": "lineage-23.2-20260814-UNOFFICIAL-Lufrz-rodin.zip",
         "os_patch_level": "2026-08-01",
         "os_sdk_level": 36,
-        "ota_property_files": "",
-        "sha256": "2aee73eff6a89ca06cf1e0fe0313ec0bfe060a3db17a3e5a238310c3a64ccea7",
-        "size": 2379862624,
-        "url": "https://ts.buzzheavier.com/d/lozz8wcgu5dw?v=DW_SzTRbWQR4MDPfed_-oZCgsfRCbEo3QWUmuh7Ly3Nk49Vvs_smgttrPfUviLPpD0vsSGwZtShXyfu5WflJ0gKGTEB6ITmJpluOdXbKBt-ADSoZrHFhHcDee083Lfy1YI3smqyjsvZrOSTNKFPalg7sLiud-V_mcloBhZXgdgsExlT8KYOCtwMtHiEKLefFbgRkjzVXwc7B0KDrDhCV1mKcXJ1z25JwDKQ2bZwutyl6xU2g"
+        "ota_property_files": "payload_metadata.bin:5328:160281,payload.bin:5328:2379854025,payload_properties.txt:2379859411:156",
+        "sha256": "88c4abf745e17808ea19b19f13263ec5f3630afe68cd42c3f7d70679fc3a6f96",
+        "size": 2379862788,
+        "url": "https://ts.buzzheavier.com/d/xaen4s104su8?v=lwUK2VbpSCy1zx1Q7u1dk9uY980CIuT9IlMIdNwv01n28Bj8VAL5PFUfg-4gjvquCHBYkma1P9F2BVwApsdQAzhecvSIEBR46Fv1VctKMqpMA1FcihEjI1CYQtaovvfSTY8Cui51uQ6R0ENmegSav2er8t4JMYl1ADObhv3Drw9yhrG8VbIhFLfa3cllyf28ytMD1fg8tpcHJYIauGOuOrR3jKkuSz3pPH8PwpcHTvppSk4"
       }
     ],
     "type": "unofficial",
